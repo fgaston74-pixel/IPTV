@@ -5,17 +5,13 @@
 #EXTINF:-1 tvg-id="8888" tvg-name="A24" group-title="Noticias" tvg-logo="https://i.imgur.com/LnXQkIU.png", A24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.a24.com/vivo
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ef5dfcb3-d85f-4294-a630-
-
-2aed172c6463:SCL2/variant/325d453e61b781b5c5a35435d93679cb/bandwidth/1800000.m3u8
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ef5dfcb3-d85f-4294-a630-2aed172c6463:SCL2/variant/325d453e61b781b5c5a35435d93679cb/bandwidth/1800000.m3u8
 
 
 #EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Noticias" tvg-logo="https://i.imgur.com/LnXQkIU.png", A24-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.a24.com/vivo
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ef5dfcb3-d85f-4294-a630-
-
-2aed172c6463:SCL2/variant/b20e54831be1870c77de57c177c43ab4/bandwidth/2800000.m3u8
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ef5dfcb3-d85f-4294-a630-2aed172c6463:SCL2/variant/b20e54831be1870c77de57c177c43ab4/bandwidth/2800000.m3u8
 
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://i.imgur.com/LnXQkIU.png",A24qq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -143,5 +139,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
 
 
