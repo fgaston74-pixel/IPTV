@@ -2,32 +2,21 @@
 
 # Noticias
 
-#EXTINF:-1 tvg-id="8888" tvg-name="A24" group-title="Noticias" tvg-logo="https://i.imgur.com/LnXQkIU.png", A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ef5dfcb3-d85f-4294-a630-2aed172c6463:SCL2/variant/325d453e61b781b5c5a35435d93679cb/bandwidth/1800000.m3u8
-
-
-#EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Noticias" tvg-logo="https://i.imgur.com/LnXQkIU.png", A24-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ef5dfcb3-d85f-4294-a630-2aed172c6463:SCL2/variant/b20e54831be1870c77de57c177c43ab4/bandwidth/2800000.m3u8
 
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://i.imgur.com/LnXQkIU.png",A24qq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_
-
 %282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-
-
 TN_todo_noticias_logo.svg.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
 
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_
 
