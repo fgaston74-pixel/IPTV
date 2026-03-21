@@ -87,9 +87,11 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #HBO---------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="00001" tvg-name=" HBO" ,HBO
+#EXTVLCOPT:http-referrer=http://tecnotv.club/18ma
 http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0c5&token=tecnotokenplustv230516F&f=.m3u8
 
 #EXTINF:-1 tvg-id="00002" tvg-name="  HBO +" ,  HBO +
+#EXTVLCOPT:http-referrer=http://tecnotv.club
 http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0cv&token=tecnotokenplustv230516F&f=.m3u8
 
 #EXTINF:-1 tvg-id="00003" tvg-name=" HBO2 " ,HBO2
