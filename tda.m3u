@@ -1,6 +1,6 @@
 #EXTM3U
 
-#Noticias----------------------------------------------------------------------------------------------------------------------------------
+# Noticias----------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://i.imgur.com/LnXQkIU.png",A24qq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -14,19 +14,10 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
 
-#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias", Crónica TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="0964" tvg-name="Canal E" group-title="Noticias" tvg-logo="https://files.catbox.moe/tacipf.png", Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0923" tvg-name="24/7 Noticias" group-title="Noticias" tvg-logo="https://files.catbox.moe/supqza.png", 24/7 Noticias Neuquen
-https://panel.host-live.com:19360/cn247tv/Source.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Solidaridad" group-title="Noticias" tvg-logo="https://files.catbox.moe/4rutpx.png", TV Solidaridad Argentina
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 # General------------------------------------------------------------------------------------------------------------------------------
 
@@ -61,7 +52,7 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/gb2iih.png", Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-# Otros/Tematicos
+# Otros/Tematicos---------------------------------------------------------------------
 
 
 #EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Temáticos Argentinos", Argentinisima
@@ -71,7 +62,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras y Radios", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-# Internacional
+# Internacional-----------------------------------------------------
 #EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
@@ -84,33 +75,65 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+# -----------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="10001" tvg-name="Garage TV",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
-#HBO---------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="00001" tvg-name=" HBO" ,HBO
+# HBO---------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="10012" tvg-name="HBO",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0c5&token=tecnotokenplustv230516F&f=.m3u8
 
-#EXTINF:-1 tvg-id="00002" tvg-name="  HBO +" ,  HBO +
+#EXTINF:-1 tvg-id="10011" tvg-name="HBO+",HBO +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0cv&token=tecnotokenplustv230516F&f=.m3u8
 
-#EXTINF:-1 tvg-id="00003" tvg-name=" HBO2 " ,HBO2
+#EXTINF:-1 tvg-id="10010" tvg-name="HBO2",HBO2
 http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0ct&token=tecnotokenplustv230516F&f=.m3u8
 
-#EXTINF:-1 tvg-id="00004" tvg-name=" HBO FAMILY " ,HBO FAMILY 
+#EXTINF:-1 tvg-id="10009" tvg-name=" HBO FAMILY " ,HBO FAMILY 
 http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0cu&token=tecnotokenplustv230516F&f=.m3u8
 
-#EXTINF:-1 tvg-id="00005" tvg-name=" HBO MUNDI " ,HBO MUNDI
+#EXTINF:-1 tvg-id="10008" tvg-name=" HBO MUNDI " ,HBO MUNDI
 http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
 
-#EXTINF:-1 tvg-id="00006" tvg-name="HBO SIGNATURE " ,HBO SIGNATURE
+#EXTINF:-1 tvg-id="10006" tvg-name="HBO SIGNATURE " ,HBO SIGNATURE
 http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0ji&token=tecnotokenplustv230516F&f=.m3u8
 
-#EXTINF:-1 tvg-id="00007" tvg-name=" HBO XTREME" ,HBO XTREME
+#EXTINF:-1 tvg-id="10007" tvg-name=" HBO XTREME" ,HBO XTREME
 http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a096&token=tecnotokenplustv230516F&f=.m3u8
 
+#EXTINF:-1 tvg-id="10002" tvg-name=" CINEMAX" ,CINEMAX
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a093&token=tecnotokenplustv230516F&f=.m3u8
 
 
+#EXTINF:-1 tvg-id="10003" tvg-name="WARNER",WARNER
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0cf&token=tecnotokenplustv230516F&f=.m3u8
 
+#EXTINF:-1 tvg-id="10004" tvg-name="SPACE",SPACE
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="10005" tvg-name="UNIVERSAL",UNIVERSAL
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0bt&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="10013" tvg-name=" TNT SERIES", TNT SERIES
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0da&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="10014" tvg-name=" tnt novelas", tnt novelas
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="10015" tvg-name=" fox channels", fox channel
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a08v&token=tecnotokenplustv230516F&f=.m3u8
+
+# SPORT----------------------------------------
+#EXTINF:-1 tvg-id="20000" tvg-name="TyC SPORTS",TyC SPORTS
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0kw&token=tecnotokenplustv230516F&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="20001" tvg-name="ESPN 2",ESPN 2
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a092&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="20002" tvg-name="ESPN",ESPN
+http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a091&token=tecnotokenplustv230516F&f=.m3u8
 
 
