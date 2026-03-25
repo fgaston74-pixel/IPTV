@@ -1,66 +1,6 @@
 #EXTM3U
 
-#---------------------------prueba-----------------------------------------------------------------------------------------------
 
-
-# HBO---------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="10012" tvg-name="HBO",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0c5&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10011" tvg-name="HBO+",HBO +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0cv&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10010" tvg-name="HBO2",HBO2
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0ct&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10009" tvg-name=" HBO FAMILY " ,HBO FAMILY 
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0cu&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10008" tvg-name=" HBO MUNDI " ,HBO MUNDI
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10006" tvg-name="HBO SIGNATURE " ,HBO SIGNATURE
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0ji&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10007" tvg-name=" HBO XTREME" ,HBO XTREME
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a096&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10002" tvg-name=" CINEMAX" ,CINEMAX
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a093&token=tecnotokenplustv230516F&f=.m3u8
-
-
-#EXTINF:-1 tvg-id="10003" tvg-name="WARNER",WARNER
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0cf&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10004" tvg-name="SPACE",SPACE
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10005" tvg-name="UNIVERSAL",UNIVERSAL
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0bt&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10013" tvg-name=" TNT SERIES", TNT SERIES
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0da&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10014" tvg-name=" tnt novelas", tnt novelas
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="10015" tvg-name=" fox channels", fox channel
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a08v&token=tecnotokenplustv230516F&f=.m3u8
-
-# SPORT----------------------------------------
-#EXTINF:-1 tvg-id="20000" tvg-name="TyC SPORTS",TyC SPORTS
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a0kw&token=tecnotokenplustv230516F&f=.m3u8
-
-
-#EXTINF:-1 tvg-id="20001" tvg-name="ESPN 2",ESPN 2
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a092&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="20002" tvg-name="ESPN",ESPN
-http://tecnotv.club/18ma/phpcode/ssiptv.php?c=a091&token=tecnotokenplustv230516F&f=.m3u8
-
-#-----------------------------------------------------------
 #pelotalibrehdtvs.com
 
 #EXTINF:-1,espnpremium
