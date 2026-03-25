@@ -2,8 +2,13 @@
 
 #EXTINF:-1 tvg-id="espnpremium2",espnpremium2
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=espnpremium
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://195.178.110.67/espnpremium/mono.m3u8?token=4d8bbca2a5594d05c59517a435ae41a699373cc6-c3-1774470533-1774452533
+
+#EXTINF:-1, tvg-id="ESPN PREMIUM EN VIVO 2",ESPN PREMIUM EN VIVO 2
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://deportes.ksdjugfsddeports.com:9092/MjAwLjY5LjIyNS42Nw==/5_.m3u8?token=Kp-lFxkLqRqs6iVoBD-cjg&expires=1774494690
 
 #pelotalibrehdtvs.com
 
