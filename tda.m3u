@@ -66,15 +66,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras y Radios", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-# Internacional-----------------------------------------------------
-
-#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
-
-#EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-# -----------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="10001" tvg-name="Garage TV",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
