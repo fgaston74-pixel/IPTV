@@ -84,7 +84,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #prueba--------------------
-#EXTINF:-1,espnpremium2
+#EXTINF:-1 tvg-id="espnpremium2",espnpremium2
 #EXTVLCOPT:http-referrer=https://pelotalibrehdtvs.com/espn-premium/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://tyg2mnl9.fubohd.com/espnpremium/mono.m3u8?token=930280a551e6987d8b3948fb4d9db46b88759927-8b-1774459803-1774441803
