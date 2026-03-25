@@ -69,11 +69,23 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="10001" tvg-name="Garage TV",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#prueba-----------------------------------------------------------------------------------------------
+#---------------------------prueba-----------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="espnpremium2",espnpremium2
 #EXTVLCOPT:http-referrer=https://la14hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://tyg2mnl9.fubohd.com/espnpremium/mono.m3u8?token=930280a551e6987d8b3948fb4d9db46b88759927-8b-1774459803-1774441803
+
+
+#EXT-X-MEDIA-SEQUENCE:242337
+#EXT-X-PROGRAM-DATE-TIME:2026-03-25T14:38:11.748Z
+#EXTINF:5.606,espnpremium3
+2026/03/25/14/38/11-05606.ts?token=d004213f7f6f01123bb974d6b984ca8a871f56a8-83-1774466595-1774448595
+#EXTINF:5.606,espnpremium3
+2026/03/25/14/38/17-05606.ts?token=d004213f7f6f01123bb974d6b984ca8a871f56a8-83-1774466595-1774448595
+#EXTINF:5.606,espnpremium3
+2026/03/25/14/38/22-05606.ts?token=d004213f7f6f01123bb974d6b984ca8a871f56a8-83-1774466595-1774448595
+#EXTINF:5.606,espnpremium3
+2026/03/25/14/38/28-05606.ts?token=d004213f7f6f01123bb974d6b984ca8a871f56a8-83-1774466595-1774448595
 
 # HBO---------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="10012" tvg-name="HBO",HBO
