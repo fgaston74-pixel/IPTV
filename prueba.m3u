@@ -1,7 +1,7 @@
 #EXTM3U
 
 #---------------------------prueba-----------------------------------------------------------------------------------------------
-#EXTINF:5.606 tvg-id="espnpremium2",espnpremium2
+#EXTINF:-1 tvg-id="espnpremium2",espnpremium2
 #EXT-X-MEDIA-SEQUENCE:242337
 #EXT-X-PROGRAM-DATE-TIME:2026-03-25
 #EXTVLCOPT:http-referrer=https://la14hd.com
