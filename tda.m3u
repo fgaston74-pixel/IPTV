@@ -63,10 +63,10 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 
-#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras y Radios", Telemax
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="General/Abierta" tvg-logo="https://camo.githubusercontent.com/df1dd7b3a290926fa3c273fd2e31f6e378bc51913df35bbbdff474d7db262545/68747470733a2f2f692e696d6775722e636f6d2f676658306864422e706e67" group-title="Otros/Extras y Radios", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:-1 tvg-id="10001" tvg-name="Garage TV",Garage TV
+#EXTINF:-1 tvg-id="10001" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1mrzDakyhcoMIM8Emy40P3X6pkn4JpnTUp7P-R-9KdyYze2CFwUzN8W0KComoef5Ky8QDTM5CYKkWY2I-vIRzLgYcoH4jdLvCXSOatsiJFNgZm1api-BT92vA5WXKBhwaOLdCf1ZVo_bdhIz51DIzC42ev5QyjHxlotVAVOb_TKmP6__aN8Yi01_/s400/garagetv-logo.png" tvg-name="Garage TV",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 
