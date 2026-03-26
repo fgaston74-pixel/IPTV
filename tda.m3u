@@ -10,10 +10,10 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" tvg-logo="https://github.com/fgaston74-pixel/IPTV/blob/main/Canal_26.png" group-title="Noticias", Canal 26
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" tvg-logo="https://camo.githubusercontent.com/15d862457b0cbf7025a7fa820b5d787210ffbc04385f13dd93db74eae5b2cda9/68747470733a2f2f692e696d6775722e636f6d2f78446a4f55757a2e706e67" group-title="Noticias", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="0001" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+#EXTINF:-1 tvg-id="0001" tvg-name="TN" group-title="Noticias" tvg-logo="https://camo.githubusercontent.com/3c80ccd3373c1e6b8a6ddd0dd6f65b3b36af5509d3ad2a55ba6e8471ba4035aa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34662f544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672f32303070782d544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672e706e67", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
@@ -26,15 +26,15 @@ http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" tvg-logo="https://github.com/fgaston74-pixel/IPTV/blob/main/telefe.png" group-title="General/Abierta",Telefe
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" tvg-logo="https://camo.githubusercontent.com/c97645fa4a01423f391479b11d5a1d46b7df3136e8c0d8f975229f212f8a0622/68747470733a2f2f692e696d6775722e636f6d2f77725a664d586e2e706e67" group-title="General/Abierta",Telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8
 
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://github.com/fgaston74-pixel/IPTV/blob/main/elnueve.png", El Nueve
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://camo.githubusercontent.com/f214a53f9120715748ba74bdb8996e3b68bdf1b2fd803f126be4833f0943c6d4/68747470733a2f2f692e696d6775722e636f6d2f45746356536d342e706e67", El Nueve
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://107.152.39.199:8030/hls/canal7.m3u8
 
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" tvg-logo="https://github.com/fgaston74-pixel/IPTV/blob/main/America_TV.png" group-title="General/Abierta", America TV-1
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" tvg-logo="https://camo.githubusercontent.com/3681523dcb92981be2a5de033c17a88728be3351c5b47d4d9b93fcf342386bb0/68747470733a2f2f692e696d6775722e636f6d2f4a7437644f516d2e706e67" group-title="General/Abierta", America TV-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
