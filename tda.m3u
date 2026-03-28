@@ -22,8 +22,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
 
 EXTINF:-1 tvg-id="tn2" tvg-name="TN 2" group-title="Noticias" , TN-2
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://radiosargentina.com.ar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
 
 
