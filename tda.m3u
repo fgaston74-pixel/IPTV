@@ -16,12 +16,13 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="09172" tvg-name="Canal 26-2" tvg-logo="https://camo.githubusercontent.com/15d862457b0cbf7025a7fa820b5d787210ffbc04385f13dd93db74eae5b2cda9/68747470733a2f2f692e696d6775722e636f6d2f78446a4f55757a2e706e67" group-title="Noticias", Canal 26-2
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
 
-#EXTINF:-1 tvg-id="0001" tvg-name="TN" group-title="Noticias" tvg-logo="https://camo.githubusercontent.com/3c80ccd3373c1e6b8a6ddd0dd6f65b3b36af5509d3ad2a55ba6e8471ba4035aa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34662f544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672f32303070782d544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672e706e67", TN
+#EXTINF:-1 tvg-id="0001" tvg-name="TN" group-title="Noticias" tvg-logo="https://camo.githubusercontent.com/3c80ccd3373c1e6b8a6ddd0dd6f65b3b36af5509d3ad2a55ba6e8471ba4035aa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34662f544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672f32303070782d544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672e706e67", TN-1
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
 
-EXTINF:-1 tvg-id="0001" tvg-name="TN" group-title="Noticias" tvg-logo="https://camo.githubusercontent.com/3c80ccd3373c1e6b8a6ddd0dd6f65b3b36af5509d3ad2a55ba6e8471ba4035aa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34662f544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672f32303070782d544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672e706e67", TN
+EXTINF:-1 tvg-id="tn2" tvg-name="TN 2" group-title="Noticias" tvg-logo="https://camo.githubusercontent.com/3c80ccd3373c1e6b8a6ddd0dd6f65b3b36af5509d3ad2a55ba6e8471ba4035aa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34662f544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672f32303070782d544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672e706e67", TN-2
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOT
 
