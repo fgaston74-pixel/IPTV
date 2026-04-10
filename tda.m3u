@@ -23,10 +23,13 @@ https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/4e25385
 
 
 #EXTINF:-1 tvg-id="TN2",TN-2
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
 
 #EXTINF:-1 tvg-id="TN3",TN-3
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+https://#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
 
 
