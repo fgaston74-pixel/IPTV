@@ -22,6 +22,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/4e25385b-f62a-4e99-ba57-5bf7d1271dd9:SCL2/variant/0252c34b3a9e5a76611cedcce23a64df/bandwidth/7070800.m3u
 
 
+
 #EXTINF:-1 tvg-id="TN2",TN-2
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
@@ -29,6 +30,10 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
 #EXTINF:-1 tvg-id="TN3",TN-3
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+
+
+#EXTINF:-1 tvg-id="TN4",TN-4
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
 
