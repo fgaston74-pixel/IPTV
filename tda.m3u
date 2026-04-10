@@ -29,21 +29,20 @@ https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="1909" tvg-name="Telefe-1" tvg-logo="https://camo.githubusercontent.com/c97645fa4a01423f391479b11d5a1d46b7df3136e8c0d8f975229f212f8a0622/68747470733a2f2f692e696d6775722e636f6d2f77725a664d586e2e706e67" group-title="General/Abierta",Telefe-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8
+
 
 #EXTINF:-1 tvg-id="19092" tvg-name="Telefe-2" tvg-logo="https://camo.githubusercontent.com/c97645fa4a01423f391479b11d5a1d46b7df3136e8c0d8f975229f212f8a0622/68747470733a2f2f692e696d6775722e636f6d2f77725a664d586e2e706e67" group-title="General/Abierta",Telefe-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__34.1LS84TELEFE
 
-#EXTINF:-1 tvg-id="190923" tvg-name="Telefe-3",Telefe-2
+#EXTINF:-1 tvg-id="190923" tvg-name="Telefe-3",Telefe-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://camo.githubusercontent.com/f214a53f9120715748ba74bdb8996e3b68bdf1b2fd803f126be4833f0943c6d4/68747470733a2f2f692e696d6775722e636f6d2f45746356536d342e706e67", El Nueve
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://107.152.39.199:8030/hls/canal7.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
 
 #EXTINF:-1 tvg-id="0935" tvg-name="América TV" tvg-logo="https://camo.githubusercontent.com/3681523dcb92981be2a5de033c17a88728be3351c5b47d4d9b93fcf342386bb0/68747470733a2f2f692e696d6775722e636f6d2f4a7437644f516d2e706e67" group-title="General/Abierta", America TV-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
