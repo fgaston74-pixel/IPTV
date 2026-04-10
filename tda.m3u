@@ -28,13 +28,8 @@ https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/4e25385
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
 
 #EXTINF:-1 tvg-id="TN3",TN-3
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
-
-#EXTINF:-1 tvg-id="TN4",TN-4
-https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
 
 
@@ -52,6 +47,9 @@ http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__34.1LS84TELEFE
 
+#EXTINF:-1 tvg-id="190923" tvg-name="Telefe-3" tvg-logo="https://camo.githubusercontent.com/c97645fa4a01423f391479b11d5a1d46b7df3136e8c0d8f975229f212f8a0622/68747470733a2f2f692e696d6775722e636f6d2f77725a664d586e2e706e67" group-title="General/Abierta",Telefe-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://camo.githubusercontent.com/f214a53f9120715748ba74bdb8996e3b68bdf1b2fd803f126be4833f0943c6d4/68747470733a2f2f692e696d6775722e636f6d2f45746356536d342e706e67", El Nueve
