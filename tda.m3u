@@ -2,24 +2,16 @@
 
 # Noticias----------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://i.imgur.com/LnXQkIU.png" ng" group-title="Noticias",A24-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" ggroup-title="Noticias" user-agent="iPhone",A24-2
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" tvg-logo="https://camo.githubusercontent.com/15d862457b0cbf7025a7fa820b5d787210ffbc04385f13dd93db74eae5b2cda9/68747470733a2f2f692e696d6775722e636f6d2f78446a4f55757a2e706e67" group-title="Noticias", Canal 26-1
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
 #EXTINF:-1 tvg-id="09172" tvg-name="Canal 26-2" tvg-logo="https://camo.githubusercontent.com/15d862457b0cbf7025a7fa820b5d787210ffbc04385f13dd93db74eae5b2cda9/68747470733a2f2f692e696d6775722e636f6d2f78446a4f55757a2e706e67" group-title="Noticias", Canal 26-2
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
 
-
 #EXTINF:-1 tvg-id="0001" tvg-name="TN" group-title="Noticias" tvg-logo="https://camo.githubusercontent.com/3c80ccd3373c1e6b8a6ddd0dd6f65b3b36af5509d3ad2a55ba6e8471ba4035aa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34662f544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672f32303070782d544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672e706e67", TN-1
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
-
 
 
 
@@ -30,11 +22,6 @@ https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="19092" tvg-name="Telefe-2" tvg-logo="https://camo.githubusercontent.com/c97645fa4a01423f391479b11d5a1d46b7df3136e8c0d8f975229f212f8a0622/68747470733a2f2f692e696d6775722e636f6d2f77725a664d586e2e706e67" group-title="General/Abierta",Telefe-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__34.1LS84TELEFE
-
 #EXTINF:-1 tvg-id="190923" tvg-name="Telefe-3",Telefe-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
@@ -44,9 +31,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
 
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" tvg-logo="https://camo.githubusercontent.com/3681523dcb92981be2a5de033c17a88728be3351c5b47d4d9b93fcf342386bb0/68747470733a2f2f692e696d6775722e636f6d2f4a7437644f516d2e706e67" group-title="General/Abierta", America TV-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://camo.githubusercontent.com/3681523dcb92981be2a5de033c17a88728be3351c5b47d4d9b93fcf342386bb0/68747470733a2f2f692e696d6775722e636f6d2f4a7437644f516d2e706e67" group-title="General/Abierta" user-agent="iPhone",America TV-2
 #EXTVLCOPT:http-user-agent=iPhone
@@ -79,8 +64,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="10001" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1mrzDakyhcoMIM8Emy40P3X6pkn4JpnTUp7P-R-9KdyYze2CFwUzN8W0KComoef5Ky8QDTM5CYKkWY2I-vIRzLgYcoH4jdLvCXSOatsiJFNgZm1api-BT92vA5WXKBhwaOLdCf1ZVo_bdhIz51DIzC42ev5QyjHxlotVAVOb_TKmP6__aN8Yi01_/s400/garagetv-logo.png" tvg-name="Garage TV",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="TYCSPORTS-1",TYCSPORTS-1
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTYCSPORTS_
 
 
 
