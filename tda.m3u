@@ -27,7 +27,7 @@ https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/4e25385
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
 
 #EXTINF:-1 tvg-id="TN3",TN-3
-https://#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
