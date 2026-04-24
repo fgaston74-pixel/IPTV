@@ -19,7 +19,7 @@ https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/712/413/png-transparent-logo-todo-noticias-news-tamil-cinema-technology-journalism-others-thumbnail.png",Todo Noticias (CABA)
 #EXTVLCOPT:http-referrer=https://tn.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/da213474-ea69-4eb1-9776-6f8866ad2053:SCL2/variant/0252c34b3a9e5a76611cedcce23a64df/bandwidth/7070800.m3u8
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/da213474-ea69-4eb1-9776-6f8866ad2053:SCL2/variant/b2110a06d9c5deb07fe7bc0b6b2f18cf/bandwidth/1680800.m3u8
 
 
 # General------------------------------------------------------------------------------------------------------------------------------
