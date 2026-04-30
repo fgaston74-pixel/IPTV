@@ -72,6 +72,32 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 
+#EXTINF:-1 tvg-id="ESPN 5 HD" group-title="Deporte",ESPN 5 HD
+http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0ix&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO",HBO Family HD
+http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0l5&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="HBO HD" group-title="HBO",HBO HD
+http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0l2&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="HBO XTREME HD" group-title="HBO",HBO XTREME HD
+http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0l6&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="HBO2 HD" group-title="HBO",HBO2 HD
+http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0l6&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="TNT Novelas" group-title="TNT",TNT Novelas
+http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0g9&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series HD" group-title="TNT",TNT Series HD
+http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="CINECANAL HD" group-title="CINECANAL",CINECANAL HD
+http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0hq&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="WARNER HD" group-title="WARNER",WARNER HD
+http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
 
 
 
