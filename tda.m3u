@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,tycsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bGFuZQ.fubohd.com:443/tycsports/mono.m3u8?token=164a3141104c6eb9cae7e2ca12a3324b70c05a34-8c-1776980672-1776962672
+
+
 # Noticias----------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -71,6 +70,13 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="10001" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1mrzDakyhcoMIM8Emy40P3X6pkn4JpnTUp7P-R-9KdyYze2CFwUzN8W0KComoef5Ky8QDTM5CYKkWY2I-vIRzLgYcoH4jdLvCXSOatsiJFNgZm1api-BT92vA5WXKBhwaOLdCf1ZVo_bdhIz51DIzC42ev5QyjHxlotVAVOb_TKmP6__aN8Yi01_/s400/garagetv-logo.png" tvg-name="Garage TV",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:-1 ,tycsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://tecnotv.club/ab26/phpcode/lista01.php?c=a04m&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 ,tycsports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://tecnotv.club/ab26/phpcode/lista1.php?c=a05j&token=tecnotokenplustv230516F&f=.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5 HD" group-title="Deporte",ESPN 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -80,9 +86,17 @@ http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0ix&token=tecnotokenplustv230516F
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://tecnotv.club/ab26/phpcode/android.php?c=a049&token=tecnotokenplustv230516F&f=.m3u8
 
+#EXTINF:-1 tvg-id=" Cinemax HD" group-title=" Cinemax", Cinemax HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://tecnotv.club/ab26/phpcode/lista1.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="Warner TV HD" group-title="Warner",Warner TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://tecnotv.club/ab26/phpcode/android.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8  Warner TV HD
+http://tecnotv.club/ab26/phpcode/android.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="Warner TV HD" group-title="Warner",Warner TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://tecnotv.club/ab26/phpcode/lista1.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme HD" group-title="HBO",HBO Xtreme HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -119,6 +133,9 @@ http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0hq&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-id="WARNER HD" group-title="WARNER",WARNER HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="Space" group-title="Space",Space
+http://tecnotv.club/ab26/phpcode/lista01.php?c=a031&token=tecnotokenplustv230516F&f=.m3u8
 
 
 
