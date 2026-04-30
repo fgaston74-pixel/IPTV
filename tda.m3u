@@ -75,6 +75,15 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ESPN 5 HD" group-title="Deporte",ESPN 5 HD
 http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0ix&token=tecnotokenplustv230516F&f=.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 7 HD" group-title="Deporte",ESPN 7 HD
+http://tecnotv.club/ab26/phpcode/android.php?c=a049&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="Warner TV HD" group-title="Warner",Warner TV HD
+http://tecnotv.club/ab26/phpcode/android.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8  Warner TV HD
+
+#EXTINF:-1 tvg-id="HBO Xtreme HD" group-title="HBO",HBO Xtreme HD
+http://tecnotv.club/ab26/phpcode/android.php?c=a00d&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO",HBO Family HD
 http://tecnotv.club/ab26/phpcode/ssiptv.php?c=a0l5&token=tecnotokenplustv230516F&f=.m3u8
 
